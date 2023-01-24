@@ -1,0 +1,4 @@
+github.com/cmarkh/errs v0.0.0-20230112225939-ce573e9050c9 h1:K1j+nftKu/3hsjRJkRnJ4f6rTOxAs2C/9B/gSghRRaU=
+github.com/cmarkh/errs v0.0.0-20230112225939-ce573e9050c9/go.mod h1:YYYR/NK05u83Z3FRbk7CueZ96IZ1e8era765jmQZxwQ=
+github.com/cmarkh/go-mail v0.0.0-20230112213834-f3224667edb2 h1:vwwkNoUwEqX0GDyQpWruqBXtPTmQU+Y+Mlb320mu5mM=
+github.com/cmarkh/go-mail v0.0.0-20230112213834-f3224667edb2/go.mod h1:00dSj8FT+btY4D6t9ahwbIGGCHVbp1Mxlbi3we+6uGE=
